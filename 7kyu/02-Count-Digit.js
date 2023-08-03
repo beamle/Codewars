@@ -16,6 +16,11 @@ Note that 121 has twice the digit 1.
 https://www.codewars.com/kata/566fc12495810954b1000030/javascript
 */
 
+
+
+
+
+
 function nbDig(n, d) {
     let count = 0;
     for (let i = 0; i < n.length; i++) {
